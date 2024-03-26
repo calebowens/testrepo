@@ -11,10 +11,6 @@ b
 b
 b
 
-d
-d
-d
-
 adsfsad
 
 asdf
