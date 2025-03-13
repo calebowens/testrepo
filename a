@@ -1,3 +1,12 @@
+<<<<<<< ours
+<<<<<<< ours
+||||||| ancestor
+=======
+<<<<<<< ours
+<<<<<<< ours
+foo
+|||||||
+=======
 fds
 fdda
 asdfasd
@@ -12,3 +21,40 @@ fdsa
 fsda
 sdaf
 s
+>>>>>>> theirs
+|||||||
+=======
+fds
+fdda
+fsda
+sdaf
+s
+>>>>>>> theirs
+>>>>>>> theirs
+fds
+fdda
+fsda
+sdaf
+s
+|||||||
+=======
+<<<<<<< ours
+<<<<<<< ours
+foo
+|||||||
+=======
+fds
+fdda
+fsda
+sdaf
+s
+>>>>>>> theirs
+|||||||
+=======
+fds
+fdda
+fsda
+sdaf
+s
+>>>>>>> theirs
+>>>>>>> theirs
